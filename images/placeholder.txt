@@ -1,0 +1,16 @@
+This directory is for storing application logo images.
+
+For each tool defined in data.php, you should add a corresponding image here.
+The image should be named according to the 'image' property in the data array.
+
+For example:
+- rancher.png
+- grafana.png
+- prometheus.png
+- etc.
+
+Recommended image specifications:
+- PNG format with transparent background
+- Square aspect ratio (1:1)
+- Size: 200x200 pixels or larger
+- File size: Less than 100KB for optimal performance 
