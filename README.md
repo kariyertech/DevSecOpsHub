@@ -54,6 +54,12 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ---
 
+## Özel Teşekkürler
+Projeye fikir ve tasarım anlamında değerli katkılarından dolayı @vahiddu (Vahit Ustaoglu)'na özel teşekkürler.
+
+
+---
+
 ## <a name="english"></a>English
 
 DevSecOpsHub is an open-source platform that combines security, development, and operations tools in a single platform for modern software development processes. The platform offers a comprehensive solution where DevOps and security tools are presented in a catalog format, with detailed information and access URLs for each tool, team-based calendar management, and centralized procedure document management.
@@ -103,3 +109,8 @@ PostgreSQL database is automatically installed and configured with Docker:
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Special Thanks
+Special thanks to @vahiddu (Vahit Ustaoglu) for valuable contributions to the project idea and design.
