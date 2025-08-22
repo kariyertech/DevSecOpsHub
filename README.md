@@ -1,5 +1,7 @@
 # DevSecOpsHub
 
+<img width="948" height="802" alt="image" src="https://github.com/user-attachments/assets/16ccc2a8-73f1-41cd-a9dd-42f4fc69bcfc" />
+
 [English](#english) | [Türkçe](#turkish)
 
 ## <a name="turkish"></a>Türkçe
@@ -61,6 +63,7 @@ Projeye fikir ve tasarım anlamında değerli katkılarından dolayı @vahiddu (
 ---
 
 ## <a name="english"></a>English
+<img width="948" height="802" alt="image" src="https://github.com/user-attachments/assets/c5baa41e-d910-49e9-9be5-616bc8e4dfee" />
 
 DevSecOpsHub is an open-source platform that combines security, development, and operations tools in a single platform for modern software development processes. The platform offers a comprehensive solution where DevOps and security tools are presented in a catalog format, with detailed information and access URLs for each tool, team-based calendar management, and centralized procedure document management.
 
